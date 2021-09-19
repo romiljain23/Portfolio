@@ -97,6 +97,10 @@ section{
 .certify .content .certifybx h3{
     margin-top: 20px;
 }
+
+.certify .content .certifybx img{
+    width: 200px;
+}
 .contactInfo{
     margin-bottom: 20px 0;
 }
