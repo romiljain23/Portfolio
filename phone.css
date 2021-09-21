@@ -120,3 +120,7 @@ section{
     width :auto;
     height: auto;
 }
+
+#weather img{
+    width: 290px;
+}
