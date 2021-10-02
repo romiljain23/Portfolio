@@ -401,3 +401,10 @@ header ul li{
     height: 400px;
     width: 400px;
 }
+#counter{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    background-color:black;
+}
